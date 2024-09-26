@@ -1,11 +1,12 @@
 <?php include 'config/connection.php' ?>
 <html>
 <?php include 'include/header.html' ?>
+
 <body>
     <?php include 'include/navigation.php' ?>
     <!-- Slider -->
     <div class="w3-banner-info-w3ltd position-relative">
-        
+
         <div class="slider">
             <ul class="rslides" id="slider">
                 <li>
@@ -13,6 +14,7 @@
                         <div class="d-flex mx-auto align-items-center justify-content-center flex-column">
                             <div class="bnr-w3pvt">
                                 <h3>warjo recruitment</h3>
+                                <h5>Tambah sedikit untuk test commit</h5>
                                 <div class="d-flex justify-content-between bnr-sub-txt align-items-center">
                                     <span></span>
                                     <p class="text-uppercase text-white">allowing you to expand quickly</p>
@@ -20,7 +22,6 @@
                                 </div>
                             </div>
                             <div class="">
-                                
                             </div>
                         </div>
                     </div>
@@ -37,7 +38,7 @@
                                 </div>
                             </div>
                             <div class="">
-                                
+
                             </div>
                         </div>
                     </div>
@@ -54,7 +55,7 @@
                                 </div>
                             </div>
                             <div class="">
-                               
+
                             </div>
                         </div>
                     </div>
@@ -105,7 +106,7 @@
         </div>
     </section> -->
     <!-- //about -->
-    
+
     <!-- job roles -->
     <div class="wthreepvt-pos py-md-5 py-5" id="positions">
         <div class="container py-lg-5">
@@ -209,7 +210,8 @@
     </section> -->
     <!-- //services bottom-->
 
-<!-- ============================================================================= -->
+    <!-- ============================================================================= -->
     <?php include 'include/footer.php' ?>
 </body>
+
 </html>
